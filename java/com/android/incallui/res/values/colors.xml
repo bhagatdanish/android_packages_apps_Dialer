@@ -80,7 +80,7 @@
 
   <color name="incall_background_gradient_top">#00000000</color>
   <color name="incall_background_gradient_middle">#00000000</color>
-  <color name="incall_background_gradient_bottom">#CC229FEB</color>
+  <color name="incall_background_gradient_bottom">#00000000</color>
 
   <color name="incall_background_multiwindow">#E91141BB</color>
 
