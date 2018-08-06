@@ -78,8 +78,8 @@
   <!-- Background color for large notification icon in after call from unknown numbers -->
   <color name="unknown_number_color">#F4B400</color>
 
-  <color name="incall_background_gradient_top">#E91141BB</color>
-  <color name="incall_background_gradient_middle">#E91141BB</color>
+  <color name="incall_background_gradient_top">#00000000</color>
+  <color name="incall_background_gradient_middle">#00000000</color>
   <color name="incall_background_gradient_bottom">#CC229FEB</color>
 
   <color name="incall_background_multiwindow">#E91141BB</color>
